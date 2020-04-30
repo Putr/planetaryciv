@@ -87,6 +87,10 @@ img.splash {
     .img-group-three .img-small {
         max-width: 60%;
     }
+
+    section .sale-element .sale-details {
+        width: 100%;
+    }
 }
 
 /* Image group TWO */
@@ -124,6 +128,11 @@ img.splash {
     width: 230px;
     max-width: 100%;
     padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-group-four a {
     margin-left: auto;
     margin-right: auto;
 }
